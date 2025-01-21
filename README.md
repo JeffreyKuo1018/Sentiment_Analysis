@@ -4,5 +4,5 @@
 
 | Variable | Description |
 |---------|---------|
-| 內容1   | 內容2   |
-| 內容4   | 內容5   |
+| Name | The name of the restaurant. |
+| Cuisine | The types of cuisine offered by the restaurant. |

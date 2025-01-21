@@ -1,7 +1,7 @@
 # Sentiment_Analysis
 
 | Variable | Description |
-|----------|-----|
+|----------|-------------|
 | Name | The name of the restaurant. |
 | Cuisine | The types of cuisine offered by the restaurant. |
 | M_Distinction_24 | The Michelin star rating in 2024 (0, 1, 2, or 3 stars). |
@@ -16,3 +16,4 @@
 | Review_Date | The date when each review was posted. |
 | Review_Rating | The individual rating given in each review. |
 | Review_Text | The full text content of the review, providing qualitative data for analysis. |
+
